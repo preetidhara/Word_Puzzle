@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Word Puzzle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_again">Play Again</string>
+    <string name="your_scored">Your Scored</string>
+
+    <style name="BigText">
+        <item name="android:letterSpacing">0.18</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
